@@ -1,8 +1,7 @@
 name: r_username
-description: Username generator
+description: A library for generating username. r_username is  inspired by the Python package.
 version: 0.0.1
-author: Muhammed Nazeem
-homepage:
+homepage: "https://github.com/NazeemNato/r_username"
 
 environment:
   sdk: ">=2.7.0 <3.0.0"

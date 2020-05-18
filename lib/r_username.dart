@@ -1,3 +1,4 @@
+/// A package for Dart that generates username
 // Main
 export 'src/r_username.dart';
 // Helper

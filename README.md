@@ -24,6 +24,6 @@ print(uname.userName(fullName: 'Jack Daniel'));
 //JackDaniel
 }
 ```
-# bugs
+## Features and bugs 
 
 Please file feature requests and bugs at the issue tracker.
